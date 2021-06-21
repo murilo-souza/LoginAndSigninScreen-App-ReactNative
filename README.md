@@ -1,7 +1,7 @@
 <h1 align="center">Tela de Login e Signin</h1>
 
 <h2>Projeto</h2>
-<p>Tela de Login e Signin feita em React Native e Expo</p>
+<p>Tela de Login e Signin feita em React Native e Expo, com animações do proprio React Native</p>
 
 <h2>Tecnologia</h2>
 <ul>
