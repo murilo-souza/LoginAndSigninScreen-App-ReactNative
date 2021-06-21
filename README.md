@@ -5,8 +5,8 @@
 
 <h2>Tecnologia</h2>
 <ul>
-  <li><a href="https://reactnative.dev">React Native</a></li>
   <li><a href="https://docs.expo.io">Expo</a></li>
+  <li><a href="https://reactnative.dev">React Native</a></li>
 </ul>
 
 <h2>Vídeo</h2>
