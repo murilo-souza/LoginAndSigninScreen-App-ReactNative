@@ -11,7 +11,7 @@ export default function App() {
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen name="Login" component={Login} options={{
+        <Stack.Screen name="LogIn" component={Login} options={{
           title: 'Login',
           headerStyle: {
             backgroundColor: '#191919',
@@ -23,7 +23,7 @@ export default function App() {
           headerTitleAlign: 'center',
         }}/>
         <Stack.Screen name="Signin" component={Signin} options={{
-          title: 'Signin',
+          title: 'SignIn',
           headerStyle: {
             backgroundColor: '#191919',
           },
