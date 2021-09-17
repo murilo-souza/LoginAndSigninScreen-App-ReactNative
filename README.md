@@ -15,4 +15,3 @@
   <li><a href="https://www.youtube.com/channel/UCLc5Bq2yfs-S3Zse3ZFRMEQ">Link do canal</a></li>
 </ul>
 
-<p>:construction: Em desenvolvimento :construction:</p>
